@@ -6,9 +6,8 @@ A Python-based Student Performance Analytics Dashboard built using **Streamlit, 
 
 ## 🚀 Live Demo
 
-**Live Dashboard:** [Open Student Performance Analyzer](https://student-analyzer-dashboard.streamlit.app/)
+**Live Dashboard:** [Open Student Performance Analyzer](https://student-analyzer-dashboard-using-python-jndm95imjdxzss3784563c.streamlit.app/)
 
-**GitHub Repository:** [Student Analyzer Dashboard Using Python](https://github.com/aritraghorai053/Student-Analyzer-Dashboard-Using-Python)
 
 ---
 
